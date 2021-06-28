@@ -1,4 +1,4 @@
-# jest_tutorial```
+# jest_tutorial
 - npm test
 - npm init -y
 - npm i -D jest || npm install --save-dev jest
